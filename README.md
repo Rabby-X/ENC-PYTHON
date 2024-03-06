@@ -1,6 +1,6 @@
 # ENC-PYTHON
 ## Installation:
-pkg update && pkg upgrade -y
+pkg update && pkg upgrade -y \n
 pkg imstall python
 pkg install python2
 pip install requests
